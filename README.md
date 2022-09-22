@@ -17,6 +17,9 @@ My real name is Pavel, but can call me just WxC)!
 # My discord
 
 [![My discord](https://lanyard.cnrad.dev/api/735113619074842675)](https://discord.com/users/735113619074842675)
+# My top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavloverbytsky&theme=dark)](https://github.com/pavloverbytsky)
+
 # My skills
 
 
@@ -36,3 +39,6 @@ My real name is Pavel, but can call me just WxC)!
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+# ( ) => {return "It's WxC";}
+

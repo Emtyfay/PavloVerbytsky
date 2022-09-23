@@ -13,10 +13,7 @@ My real name is Pavel, but can call me just WxC)!
 # My github profile stats
 
 [![WxC GitHub stats](https://github-readme-stats.vercel.app/api?username=pavloverbytsky&show_icons=true&theme=dark)](https://github.com/pavloverbytsky)
-
-# My discord
-
-[![My discord](https://lanyard.cnrad.dev/api/735113619074842675)](https://discord.com/users/735113619074842675)
+`
 # My top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavloverbytsky&theme=dark)](https://github.com/pavloverbytsky)
 
